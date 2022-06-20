@@ -1,0 +1,28 @@
+body header nav ul{
+  list-style-type: circle;
+  padding-left: 20px;
+}
+body header nav ul li{
+  font-family:var(--fuentePrincipal);
+
+}
+body header nav ul li a{
+  text-decoration: none;
+  color: rgb(216, 216, 216);
+  font-size: 20px;
+}
+
+body header h1{
+color: rgb(216, 216, 216);
+text-align: center;
+font-family:var(--fuentePrincipal);
+font-size: 40px;
+} 
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family:var(--fuentePrincipal); /*buscar fuente secundaria para parrafos y subtitulos y aplicarlo*/
+  };
+

@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300;400;500;600&display=swap');
+
+:root{
+  --fuentePrincipal: 'Teko', sans-serif;
+};
+/*cyp...  font-family:var(--fuentePrincipal);  */

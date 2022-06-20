@@ -1,0 +1,22 @@
+.pLovelace{
+    font-size: 20px;
+    margin: 15px;
+}
+.pLovelace2{
+    font-size: 20px;
+    margin: 15px;
+}
+.lovelace1{
+    width: 200px;
+    height: 275px;
+    float: left;
+    opacity: 0.85;
+    border-radius: 100%;
+}
+.lovelace2{
+    width: 220px;
+    height: 300px;
+    float: right;
+    opacity: 0.85;
+    border-radius: 60%;
+}
